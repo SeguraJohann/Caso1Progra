@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using static CasoPractico1.Models.Enums;
 
 namespace CasoPractico1.Models
 {
@@ -13,14 +14,14 @@ namespace CasoPractico1.Models
 
         public int CapacidadPasajeros { get; set; }
 
-        public string Estado { get; set; } 
+        public EstadoVehiculo Estado { get; set; } 
 
-        public DateTime FechaRegistro { get; set; }
+        public DateTime? FechaRegistro { get; set; }
 
-        public int UsuarioRegistroId { get; set; }
+        public int? UsuarioRegistroId { get; set; }
 
         //Objetos relacionados a tablas
-        public ICollection<Ruta> Rutas { get; set; }
+        public ICollection<Ruta>? Rutas { get; set; }
 
         //Llave
         public Usuario? Usuarios { get; set; }

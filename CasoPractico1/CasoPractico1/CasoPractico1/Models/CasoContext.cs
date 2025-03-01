@@ -9,7 +9,6 @@ namespace CasoPractico1.Models
         public DbSet<Boleto> Boletos { get; set; }
         public DbSet<Horario> Horarios { get; set; }
         public DbSet<Parada> Paradas { get; set; }
-        public DbSet<Rol> Rols { get; set; }
         public DbSet<Ruta> Rutas { get; set; }
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<Vehiculo> Vehiculos { get; set; }
@@ -28,12 +27,6 @@ namespace CasoPractico1.Models
             {
                 Boleto.HasKey(e => e.Id);
                 Boleto.HasOne(ta => ta.Usuarios).WithMany(t => t.Boletos).HasForeignKey(ta => ta.ID_usuario).OnDelete(DeleteBehavior.Restrict);
-            });
-
-            modelBuilder.Entity<Rol>(Rol =>
-            {
-                Rol.HasKey(e => e.Id);
-                Rol.Property(n => n.Nombre).IsRequired().HasMaxLength(100);
             });
 
             modelBuilder.Entity<Parada>(Parada =>
@@ -62,9 +55,6 @@ namespace CasoPractico1.Models
 
 
             // ++++++++++++++++++++++++++++++++++++++++++++++++++++++ Llaves foraneas ++++++++++++++++++++++++++++++++++++++++++++
-
-            //Usuario
-            modelBuilder.Entity<Usuario>().HasOne(x => x.Rols).WithMany(e => e.Usuarios).HasForeignKey(f => f.RolId);
 
 
             //Boleto

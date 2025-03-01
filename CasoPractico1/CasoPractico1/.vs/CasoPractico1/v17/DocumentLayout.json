@@ -1,46 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\CasoPractico1\\CasoPractico1\\",
+  "WorkspaceRootPath": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\Caso1Progra\\CasoPractico1\\CasoPractico1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|c:\\users\\naran\\documents\\universidad\\2025\\progra avanzada\\casopractico1\\casopractico1\\casopractico1\\models\\parada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|solutionrelative:casopractico1\\models\\parada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|c:\\users\\naran\\documents\\universidad\\2025\\progra avanzada\\caso1progra\\casopractico1\\casopractico1\\casopractico1\\controllers\\rutascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|solutionrelative:casopractico1\\controllers\\rutascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|c:\\users\\naran\\documents\\universidad\\2025\\progra avanzada\\casopractico1\\casopractico1\\casopractico1\\models\\horario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|solutionrelative:casopractico1\\models\\horario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|c:\\users\\naran\\documents\\universidad\\2025\\progra avanzada\\caso1progra\\casopractico1\\casopractico1\\casopractico1\\controllers\\vehiculoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|solutionrelative:casopractico1\\controllers\\vehiculoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|c:\\users\\naran\\documents\\universidad\\2025\\progra avanzada\\casopractico1\\casopractico1\\casopractico1\\models\\casocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|solutionrelative:casopractico1\\models\\casocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|c:\\users\\naran\\documents\\universidad\\2025\\progra avanzada\\caso1progra\\casopractico1\\casopractico1\\casopractico1\\views\\rutas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|solutionrelative:casopractico1\\views\\rutas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|c:\\users\\naran\\documents\\universidad\\2025\\progra avanzada\\casopractico1\\casopractico1\\casopractico1\\models\\boleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|solutionrelative:casopractico1\\models\\boleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|c:\\users\\naran\\documents\\universidad\\2025\\progra avanzada\\casopractico1\\casopractico1\\casopractico1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|solutionrelative:casopractico1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|c:\\users\\naran\\documents\\universidad\\2025\\progra avanzada\\casopractico1\\casopractico1\\casopractico1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|solutionrelative:casopractico1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|c:\\users\\naran\\documents\\universidad\\2025\\progra avanzada\\casopractico1\\casopractico1\\casopractico1\\models\\ruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|solutionrelative:casopractico1\\models\\ruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|c:\\users\\naran\\documents\\universidad\\2025\\progra avanzada\\casopractico1\\casopractico1\\casopractico1\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|solutionrelative:casopractico1\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|c:\\users\\naran\\documents\\universidad\\2025\\progra avanzada\\casopractico1\\casopractico1\\casopractico1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|solutionrelative:casopractico1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|c:\\users\\naran\\documents\\universidad\\2025\\progra avanzada\\casopractico1\\casopractico1\\casopractico1\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|solutionrelative:casopractico1\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|c:\\users\\naran\\documents\\universidad\\2025\\progra avanzada\\caso1progra\\casopractico1\\casopractico1\\casopractico1\\views\\rutas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ADFAD71-DF58-4669-B25C-92460DF9C605}|CasoPractico1\\CasoPractico1.csproj|solutionrelative:casopractico1\\views\\rutas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -282,132 +258,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\CasoPractico1\\CasoPractico1\\CasoPractico1\\Program.cs",
-              "RelativeDocumentMoniker": "CasoPractico1\\Program.cs",
-              "ToolTip": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\CasoPractico1\\CasoPractico1\\CasoPractico1\\Program.cs",
-              "RelativeToolTip": "CasoPractico1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T02:54:28.022Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\CasoPractico1\\CasoPractico1\\CasoPractico1\\appsettings.json",
-              "RelativeDocumentMoniker": "CasoPractico1\\appsettings.json",
-              "ToolTip": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\CasoPractico1\\CasoPractico1\\CasoPractico1\\appsettings.json",
-              "RelativeToolTip": "CasoPractico1\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-25T02:52:45.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Horario.cs",
-              "DocumentMoniker": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\CasoPractico1\\CasoPractico1\\CasoPractico1\\Models\\Horario.cs",
-              "RelativeDocumentMoniker": "CasoPractico1\\Models\\Horario.cs",
-              "ToolTip": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\CasoPractico1\\CasoPractico1\\CasoPractico1\\Models\\Horario.cs",
-              "RelativeToolTip": "CasoPractico1\\Models\\Horario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Title": "VehiculoesController.cs",
+              "DocumentMoniker": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\Caso1Progra\\CasoPractico1\\CasoPractico1\\CasoPractico1\\Controllers\\VehiculoesController.cs",
+              "RelativeDocumentMoniker": "CasoPractico1\\Controllers\\VehiculoesController.cs",
+              "ToolTip": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\Caso1Progra\\CasoPractico1\\CasoPractico1\\CasoPractico1\\Controllers\\VehiculoesController.cs",
+              "RelativeToolTip": "CasoPractico1\\Controllers\\VehiculoesController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowD8AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T02:30:43.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Parada.cs",
-              "DocumentMoniker": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\CasoPractico1\\CasoPractico1\\CasoPractico1\\Models\\Parada.cs",
-              "RelativeDocumentMoniker": "CasoPractico1\\Models\\Parada.cs",
-              "ToolTip": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\CasoPractico1\\CasoPractico1\\CasoPractico1\\Models\\Parada.cs",
-              "RelativeToolTip": "CasoPractico1\\Models\\Parada.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T02:30:29.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Rol.cs",
-              "DocumentMoniker": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\CasoPractico1\\CasoPractico1\\CasoPractico1\\Models\\Rol.cs",
-              "RelativeDocumentMoniker": "CasoPractico1\\Models\\Rol.cs",
-              "ToolTip": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\CasoPractico1\\CasoPractico1\\CasoPractico1\\Models\\Rol.cs",
-              "RelativeToolTip": "CasoPractico1\\Models\\Rol.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T02:30:03.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Vehiculo.cs",
-              "DocumentMoniker": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\CasoPractico1\\CasoPractico1\\CasoPractico1\\Models\\Vehiculo.cs",
-              "RelativeDocumentMoniker": "CasoPractico1\\Models\\Vehiculo.cs",
-              "ToolTip": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\CasoPractico1\\CasoPractico1\\CasoPractico1\\Models\\Vehiculo.cs",
-              "RelativeToolTip": "CasoPractico1\\Models\\Vehiculo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T02:25:40.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Boleto.cs",
-              "DocumentMoniker": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\CasoPractico1\\CasoPractico1\\CasoPractico1\\Models\\Boleto.cs",
-              "RelativeDocumentMoniker": "CasoPractico1\\Models\\Boleto.cs",
-              "ToolTip": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\CasoPractico1\\CasoPractico1\\CasoPractico1\\Models\\Boleto.cs",
-              "RelativeToolTip": "CasoPractico1\\Models\\Boleto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T02:17:21.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Ruta.cs",
-              "DocumentMoniker": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\CasoPractico1\\CasoPractico1\\CasoPractico1\\Models\\Ruta.cs",
-              "RelativeDocumentMoniker": "CasoPractico1\\Models\\Ruta.cs",
-              "ToolTip": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\CasoPractico1\\CasoPractico1\\CasoPractico1\\Models\\Ruta.cs",
-              "RelativeToolTip": "CasoPractico1\\Models\\Ruta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T02:11:56.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\CasoPractico1\\CasoPractico1\\CasoPractico1\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "CasoPractico1\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\CasoPractico1\\CasoPractico1\\CasoPractico1\\Models\\Usuario.cs",
-              "RelativeToolTip": "CasoPractico1\\Models\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T02:07:55.206Z",
+              "WhenOpened": "2025-03-01T01:06:55.234Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CasoContext.cs",
-              "DocumentMoniker": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\CasoPractico1\\CasoPractico1\\CasoPractico1\\Models\\CasoContext.cs",
-              "RelativeDocumentMoniker": "CasoPractico1\\Models\\CasoContext.cs",
-              "ToolTip": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\CasoPractico1\\CasoPractico1\\CasoPractico1\\Models\\CasoContext.cs",
-              "RelativeToolTip": "CasoPractico1\\Models\\CasoContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAABrAAAA",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\Caso1Progra\\CasoPractico1\\CasoPractico1\\CasoPractico1\\Views\\Rutas\\Create.cshtml",
+              "RelativeDocumentMoniker": "CasoPractico1\\Views\\Rutas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\Caso1Progra\\CasoPractico1\\CasoPractico1\\CasoPractico1\\Views\\Rutas\\Create.cshtml",
+              "RelativeToolTip": "CasoPractico1\\Views\\Rutas\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T00:59:15.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\Caso1Progra\\CasoPractico1\\CasoPractico1\\CasoPractico1\\Views\\Rutas\\Index.cshtml",
+              "RelativeDocumentMoniker": "CasoPractico1\\Views\\Rutas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\Caso1Progra\\CasoPractico1\\CasoPractico1\\CasoPractico1\\Views\\Rutas\\Index.cshtml",
+              "RelativeToolTip": "CasoPractico1\\Views\\Rutas\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T00:57:47.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RutasController.cs",
+              "DocumentMoniker": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\Caso1Progra\\CasoPractico1\\CasoPractico1\\CasoPractico1\\Controllers\\RutasController.cs",
+              "RelativeDocumentMoniker": "CasoPractico1\\Controllers\\RutasController.cs",
+              "ToolTip": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\Caso1Progra\\CasoPractico1\\CasoPractico1\\CasoPractico1\\Controllers\\RutasController.cs",
+              "RelativeToolTip": "CasoPractico1\\Controllers\\RutasController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwEIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T02:01:07.608Z",
+              "WhenOpened": "2025-03-01T00:57:17.573Z",
               "EditorCaption": ""
             }
           ]

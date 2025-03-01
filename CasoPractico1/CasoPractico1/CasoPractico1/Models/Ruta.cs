@@ -25,6 +25,6 @@ namespace CasoPractico1.Models
 
 
         //Objetos relacionados a tablas
-        public ICollection<Boleto> Boletos { get; set; }
+        public ICollection<Boleto>? Boletos { get; set; }
     }
 }

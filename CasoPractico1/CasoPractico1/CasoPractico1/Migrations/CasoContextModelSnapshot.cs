@@ -92,28 +92,6 @@ namespace CasoPractico1.Migrations
                     b.ToTable("Paradas");
                 });
 
-            modelBuilder.Entity("CasoPractico1.Models.Rol", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("Descripcion")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Nombre")
-                        .IsRequired()
-                        .HasMaxLength(100)
-                        .HasColumnType("nvarchar(100)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Rols");
-                });
-
             modelBuilder.Entity("CasoPractico1.Models.Ruta", b =>
                 {
                     b.Property<int>("Id")
@@ -197,7 +175,7 @@ namespace CasoPractico1.Migrations
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
 
-                    b.Property<int>("RolId")
+                    b.Property<int>("Rol")
                         .HasColumnType("int");
 
                     b.Property<string>("Telefono")
@@ -205,8 +183,6 @@ namespace CasoPractico1.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("RolId");
 
                     b.ToTable("Usuarios");
                 });
@@ -222,9 +198,8 @@ namespace CasoPractico1.Migrations
                     b.Property<int>("CapacidadPasajeros")
                         .HasColumnType("int");
 
-                    b.Property<string>("Estado")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<int>("Estado")
+                        .HasColumnType("int");
 
                     b.Property<DateTime>("FechaRegistro")
                         .HasColumnType("datetime2");
@@ -302,17 +277,6 @@ namespace CasoPractico1.Migrations
                     b.Navigation("Vehiculos");
                 });
 
-            modelBuilder.Entity("CasoPractico1.Models.Usuario", b =>
-                {
-                    b.HasOne("CasoPractico1.Models.Rol", "Rols")
-                        .WithMany("Usuarios")
-                        .HasForeignKey("RolId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Rols");
-                });
-
             modelBuilder.Entity("CasoPractico1.Models.Vehiculo", b =>
                 {
                     b.HasOne("CasoPractico1.Models.Usuario", "Usuarios")
@@ -332,11 +296,6 @@ namespace CasoPractico1.Migrations
             modelBuilder.Entity("CasoPractico1.Models.Parada", b =>
                 {
                     b.Navigation("Rutas");
-                });
-
-            modelBuilder.Entity("CasoPractico1.Models.Rol", b =>
-                {
-                    b.Navigation("Usuarios");
                 });
 
             modelBuilder.Entity("CasoPractico1.Models.Ruta", b =>

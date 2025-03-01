@@ -8,6 +8,6 @@
 
 
         //Objetos relacionados a tablas
-        public ICollection<Ruta> Rutas { get; set; }
+        public ICollection<Ruta>? Rutas { get; set; }
     }
 }

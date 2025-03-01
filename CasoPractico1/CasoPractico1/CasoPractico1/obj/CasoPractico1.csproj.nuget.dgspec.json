@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\CasoPractico1\\CasoPractico1\\CasoPractico1\\CasoPractico1.csproj": {}
+    "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\Caso1Progra\\CasoPractico1\\CasoPractico1\\CasoPractico1\\CasoPractico1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\CasoPractico1\\CasoPractico1\\CasoPractico1\\CasoPractico1.csproj": {
+    "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\Caso1Progra\\CasoPractico1\\CasoPractico1\\CasoPractico1\\CasoPractico1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\CasoPractico1\\CasoPractico1\\CasoPractico1\\CasoPractico1.csproj",
+        "projectUniqueName": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\Caso1Progra\\CasoPractico1\\CasoPractico1\\CasoPractico1\\CasoPractico1.csproj",
         "projectName": "CasoPractico1",
-        "projectPath": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\CasoPractico1\\CasoPractico1\\CasoPractico1\\CasoPractico1.csproj",
+        "projectPath": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\Caso1Progra\\CasoPractico1\\CasoPractico1\\CasoPractico1\\CasoPractico1.csproj",
         "packagesPath": "C:\\Users\\naran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\CasoPractico1\\CasoPractico1\\CasoPractico1\\obj\\",
+        "outputPath": "C:\\Users\\naran\\Documents\\Universidad\\2025\\Progra Avanzada\\Caso1Progra\\CasoPractico1\\CasoPractico1\\CasoPractico1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\naran\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,6 +61,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.13, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [
